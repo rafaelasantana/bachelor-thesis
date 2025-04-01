@@ -1,0 +1,181 @@
+id,subject,ground_truth,predicted,correct
+questao_01,Languages,A,A,True
+questao_02,Languages,A,E,False
+questao_03,Languages,C,A,False
+questao_04,Languages,E,E,True
+questao_05,Languages,A,A,True
+questao_06,Languages,C,C,True
+questao_07,Languages,B,B,True
+questao_08,Languages,E,E,True
+questao_09,Languages,D,A,False
+questao_10,Languages,A,A,True
+questao_11,Languages,D,D,True
+questao_12,Languages,E,E,True
+questao_13,Languages,E,E,True
+questao_14,Languages,B,B,True
+questao_15,Languages,D,D,True
+questao_16,Languages,D,C,False
+questao_17,Languages,B,B,True
+questao_18,Languages,D,D,True
+questao_19,Languages,B,B,True
+questao_20,Languages,B,B,True
+questao_21,Languages,C,D,False
+questao_22,Languages,E,B,False
+questao_23,Languages,E,E,True
+questao_24,Languages,C,B,False
+questao_25,Languages,B,B,True
+questao_26,Languages,D,C,False
+questao_27,Languages,C,C,True
+questao_28,Languages,B,B,True
+questao_29,Languages,A,B,False
+questao_30,Languages,D,D,True
+questao_31,Languages,D,D,True
+questao_32,Languages,D,D,True
+questao_33,Languages,C,A,False
+questao_34,Languages,B,B,True
+questao_35,Languages,D,D,True
+questao_36,Languages,E,E,True
+questao_37,Languages,D,D,True
+questao_38,Languages,D,D,True
+questao_39,Languages,C,C,True
+questao_40,Languages,E,E,True
+questao_41,Languages,C,C,True
+questao_42,Languages,B,B,True
+questao_43,Languages,E,E,True
+questao_44,Languages,C,C,True
+questao_45,Languages,E,E,True
+questao_46,Human Sciences,A,A,True
+questao_47,Human Sciences,C,C,True
+questao_48,Human Sciences,B,B,True
+questao_49,Human Sciences,C,C,True
+questao_50,Human Sciences,A,A,True
+questao_51,Human Sciences,D,D,True
+questao_52,Human Sciences,C,C,True
+questao_53,Human Sciences,E,E,True
+questao_54,Human Sciences,D,D,True
+questao_55,Human Sciences,B,B,True
+questao_56,Human Sciences,A,E,False
+questao_57,Human Sciences,E,E,True
+questao_58,Human Sciences,C,C,True
+questao_59,Human Sciences,E,E,True
+questao_60,Human Sciences,D,D,True
+questao_61,Human Sciences,A,A,True
+questao_62,Human Sciences,D,D,True
+questao_63,Human Sciences,B,B,True
+questao_64,Human Sciences,A,A,True
+questao_65,Human Sciences,D,D,True
+questao_66,Human Sciences,B,B,True
+questao_67,Human Sciences,E,E,True
+questao_68,Human Sciences,B,B,True
+questao_69,Human Sciences,C,C,True
+questao_70,Human Sciences,D,D,True
+questao_71,Human Sciences,A,A,True
+questao_72,Human Sciences,D,B,False
+questao_73,Human Sciences,A,A,True
+questao_74,Human Sciences,B,B,True
+questao_75,Human Sciences,C,C,True
+questao_76,Human Sciences,D,D,True
+questao_77,Human Sciences,E,E,True
+questao_78,Human Sciences,A,D,False
+questao_79,Human Sciences,B,B,True
+questao_80,Human Sciences,C,C,True
+questao_81,Human Sciences,A,A,True
+questao_82,Human Sciences,E,E,True
+questao_83,Human Sciences,D,D,True
+questao_84,Human Sciences,E,E,True
+questao_85,Human Sciences,B,B,True
+questao_86,Human Sciences,B,B,True
+questao_87,Human Sciences,C,C,True
+questao_88,Human Sciences,E,E,True
+questao_89,Human Sciences,C,C,True
+questao_90,Human Sciences,E,E,True
+questao_91,Natural Sciences,D,D,True
+questao_92,Natural Sciences,D,B,False
+questao_93,Natural Sciences,B,B,True
+questao_94,Natural Sciences,D,D,True
+questao_95,Natural Sciences,D,D,True
+questao_96,Natural Sciences,E,E,True
+questao_97,Natural Sciences,B,B,True
+questao_98,Natural Sciences,B,B,True
+questao_99,Natural Sciences,A,A,True
+questao_100,Natural Sciences,A,A,True
+questao_101,Natural Sciences,E,D,False
+questao_102,Natural Sciences,D,E,False
+questao_103,Natural Sciences,E,D,False
+questao_104,Natural Sciences,C,A,False
+questao_105,Natural Sciences,B,B,True
+questao_106,Natural Sciences,C,B,False
+questao_107,Natural Sciences,E,E,True
+questao_108,Natural Sciences,E,B,False
+questao_109,Natural Sciences,D,D,True
+questao_110,Natural Sciences,C,B,False
+questao_111,Natural Sciences,A,A,True
+questao_112,Natural Sciences,A,A,True
+questao_113,Natural Sciences,C,E,False
+questao_114,Natural Sciences,D,E,False
+questao_115,Natural Sciences,B,B,True
+questao_116,Natural Sciences,B,D,False
+questao_117,Natural Sciences,C,C,True
+questao_118,Natural Sciences,E,B,False
+questao_119,Natural Sciences,D,E,False
+questao_120,Natural Sciences,B,E,False
+questao_121,Natural Sciences,B,B,True
+questao_122,Natural Sciences,A,A,True
+questao_123,Natural Sciences,E,E,True
+questao_124,Natural Sciences,Anulado,A,False
+questao_125,Natural Sciences,C,C,True
+questao_126,Natural Sciences,C,C,True
+questao_127,Natural Sciences,A,A,True
+questao_128,Natural Sciences,E,D,False
+questao_129,Natural Sciences,A,A,True
+questao_130,Natural Sciences,A,B,False
+questao_131,Natural Sciences,C,B,False
+questao_132,Natural Sciences,C,C,True
+questao_133,Natural Sciences,A,A,True
+questao_134,Natural Sciences,E,E,True
+questao_135,Natural Sciences,D,D,True
+questao_136,Mathematics,C,C,True
+questao_137,Mathematics,E,C,False
+questao_138,Mathematics,B,B,True
+questao_139,Mathematics,C,D,False
+questao_140,Mathematics,E,E,True
+questao_141,Mathematics,A,A,True
+questao_142,Mathematics,D,D,True
+questao_143,Mathematics,B,B,True
+questao_144,Mathematics,B,B,True
+questao_145,Mathematics,C,D,False
+questao_146,Mathematics,E,A,False
+questao_147,Mathematics,A,A,True
+questao_148,Mathematics,D,D,True
+questao_149,Mathematics,D,B,False
+questao_150,Mathematics,D,D,True
+questao_151,Mathematics,A,C,False
+questao_152,Mathematics,B,D,False
+questao_153,Mathematics,B,D,False
+questao_154,Mathematics,A,D,False
+questao_155,Mathematics,B,D,False
+questao_156,Mathematics,B,A,False
+questao_157,Mathematics,C,C,True
+questao_158,Mathematics,C,B,False
+questao_159,Mathematics,D,D,True
+questao_160,Mathematics,C,D,False
+questao_161,Mathematics,C,E,False
+questao_162,Mathematics,E,E,True
+questao_163,Mathematics,C,C,True
+questao_164,Mathematics,E,C,False
+questao_165,Mathematics,D,E,False
+questao_166,Mathematics,B,A,False
+questao_167,Mathematics,A,B,False
+questao_168,Mathematics,C,C,True
+questao_169,Mathematics,A,E,False
+questao_170,Mathematics,D,B,False
+questao_171,Mathematics,E,A,False
+questao_172,Mathematics,C,C,True
+questao_173,Mathematics,A,A,True
+questao_174,Mathematics,B,D,False
+questao_175,Mathematics,E,E,True
+questao_176,Mathematics,D,D,True
+questao_177,Mathematics,A,D,False
+questao_178,Mathematics,D,D,True
+questao_179,Mathematics,C,C,True
+questao_180,Mathematics,B,A,False
