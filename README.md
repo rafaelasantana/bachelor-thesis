@@ -37,12 +37,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Alternatively, you can install Jupyter via Homebrew and run notebooks outside the venv:
-
-```bash
-brew install jupyterlab
-```
-
 ### 3. Provide your OpenAI API key
 Save your OpenAI API key in a file named openai-key.txt in the Notebooks/ folder.
 
