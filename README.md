@@ -47,8 +47,7 @@ Run the Jupyter notebooks in this order:
 ➤ Runs all 3 prompting methods on 180 questions × 40 runs each
 
 🧼 CleanData.ipynb
-➤ Aggregates raw outputs, computes accuracy and consistency
+➤ Aggregates and formats raw outputs
 
 📊 CompareResults.ipynb
-➤ Performs Kruskal–Wallis and McNemar tests and generates plots
-
+➤ Calculates accuracy and consistency, compares results, generates plots, performs statistical analysis
